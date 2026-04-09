@@ -1,0 +1,200 @@
+{
+  "name": "AIS (WEB)",
+  "author": "update 9/4/2569",
+  "image": "https://aisplay.ais.co.th/portal/static/img/ais_play.e9f424a5.png",
+  "url": "",
+  "stations": [
+    {
+      "name": "NBT 2 HD",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5f9e908c12008d9caab3cf3b",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "TPBS",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=6378ef895b10cf050fd01614",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "CH5 HD",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5b335ab3d817de6d62889a6b",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "T-Sports 7",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=627a27b26dbfe345cfc8a27f",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Parliament",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=597be02d7ed5a24e46f67254",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "TNN",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=59671d1cd817de1df19711a6",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Nation TV",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=6378f08337d179394ce585f4",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Workpoint TV",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=632f2696fd54ec81809f7920",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "True 4 U",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5b3359d9bf6aee16d7459c25",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "GMM25",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5a702c48d817de6932b0db7a",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "CH8",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//CH8_2026.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5a127510d817de0fae3b6f2c",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MONO",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Mono_2025e.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=685108b7f5fcd9c3170292f4",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MCOT HD",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5efec3f10f6d9dc4b26c6e77",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "ONE 31 HD",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5a1685baaae731375f0eb728",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Thairath TV HD",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=60bd9c7b497960d3f9a3e222",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "3 HD",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=59592e08bf6aee4e3ecce051",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "AmarinTV HD",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5b335b61bf6aee16d8c33382",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "CH7 HD",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5abdd28daae73161cb8ef446",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "PPTV HD",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5d4bebb6aae7315312049035",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Boomerang",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2025.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=597dfea47ed5a24e46f67259",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "TOP News",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=605dad7dcebeb6db82829183",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "News 1",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=59a9a80baae7311c60cf2039",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "LunthungTV",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LunthungTV.PNG",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=5ffebc5e3c4cabc51fbcf288",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "MVTV",
+      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/MVTV.png",
+      "url": "https://aisplay.ais.co.th/portal/live?vid=68f6eac91b3e3ed505a5f154",
+      "referer": "https://49-231-34-108-rewriter.ais-vidnt.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+      "playInNatPlayer": "true"
+    }
+  ]
+}
