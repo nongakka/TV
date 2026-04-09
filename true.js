@@ -1,0 +1,97 @@
+const axios = require("axios");
+const fs = require("fs");
+
+async function getTrueIDChannels() {
+  console.log("📡 โหลด TRUEID จาก GitHub...");
+
+  const url = "https://raw.githubusercontent.com/nongakka/TV/main/true_chanel.json";
+
+  const res = await axios.get(url);
+
+  const data = typeof res.data === "string"
+    ? JSON.parse(res.data)
+    : res.data;
+
+  // 🔥 แก้ตรงนี้
+  const groups = data.data.channelsList;
+
+  let channels = [];
+
+  for (const group of groups || []) {
+    for (const ch of group.channels || []) {
+      channels.push({
+        id: ch.id,
+        slug: ch.slug,
+        name: ch.title,
+        logo: ch.thumb
+      });
+    }
+  }
+
+  console.log("✅ เจอ", channels.length, "ช่อง");
+
+  return channels;
+}
+
+
+function removeDuplicateChannels(channels) {
+  const seen = new Set();
+
+  return channels.filter(ch => {
+    const key = ch.slug || ch.id;
+
+    if (seen.has(key)) {
+      return false; // ❌ ซ้ำ
+    }
+
+    seen.add(key);
+    return true; // ✅ เก็บไว้
+  });
+}
+
+function saveTrueIDPlaylist(channels) {
+  const today = new Date().toLocaleDateString("th-TH");
+
+  const output = {
+    name: "TRUE ID",
+    author: "update " + today,
+    image: "https://cms.dmpcdn.com/misc/2022/02/09/af7de880-89ab-11ec-8c0c-590a22d85d91_webp_original.webp",
+    url: "",
+    stations: channels.map(ch => ({
+      name: ch.slug, 
+      image: ch.logo,
+
+      url: `https://tv.trueid.net/th-th/live/${ch.slug}`,
+
+      referer: "https://tv.trueid.net/",
+      userAgent:
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+
+      playInNatPlayer: "true"
+    }))
+  };
+
+  fs.writeFileSync("trueid_playlist.json", JSON.stringify(output, null, 2));
+
+  console.log("💾 saved: trueid_playlist.json");
+}
+
+(async () => {
+  console.log("🚀 START\n");
+
+  const channels = await getTrueIDChannels();
+
+if (!channels.length) {
+  console.log("❌ ไม่มีข้อมูล");
+  return;
+}
+
+// 🔥 คัดช่องซ้ำตรงนี้
+const uniqueChannels = removeDuplicateChannels(channels);
+
+console.log("✅ หลังคัดซ้ำ:", uniqueChannels.length);
+
+saveTrueIDPlaylist(uniqueChannels);
+
+  console.log("\n✅ DONE");
+})();
