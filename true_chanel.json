@@ -1,4 +1,107 @@
-        
+       {
+    "data": {
+        "categories": [
+            {
+                "title": "ช่องทั้งหมด",
+                "title_en": "All Channels",
+                "catSlug": "TrueID : All",
+                "title_logo": "",
+                "shelf_code": "vdd78mEQYEv",
+                "id": "vdd78mEQYEv"
+            },
+            {
+                "title": "ดิจิตอลทีวี",
+                "title_en": "Digital TV",
+                "catSlug": "wy8Lq8oj0zYy",
+                "title_logo": "",
+                "shelf_code": "wy8Lq8oj0zYy",
+                "id": "wy8Lq8oj0zYy"
+            },
+            {
+                "title": "TrueVisions Now",
+                "title_en": "TrueVisions Now",
+                "catSlug": "g2E3l8lmaxpR",
+                "title_logo": "",
+                "shelf_code": "g2E3l8lmaxpR",
+                "id": "g2E3l8lmaxpR"
+            },
+            {
+                "title": "ช่องการศึกษาออนไลน์",
+                "title_en": "Education Channel",
+                "catSlug": "w7R6y6yXBMm7",
+                "title_logo": "",
+                "shelf_code": "w7R6y6yXBMm7",
+                "id": "w7R6y6yXBMm7"
+            },
+            {
+                "title": "ยอดนิยม",
+                "title_en": "Popular",
+                "catSlug": "z4xL5qnpr6z",
+                "title_logo": "",
+                "shelf_code": "z4xL5qnpr6z",
+                "id": "z4xL5qnpr6z"
+            },
+            {
+                "title": "เอ็กซ์คลูซีฟ",
+                "title_en": "Exclusive",
+                "catSlug": "E32W1O9v3Y5",
+                "title_logo": "",
+                "shelf_code": "E32W1O9v3Y5",
+                "id": "E32W1O9v3Y5"
+            },
+            {
+                "title": "สารพันบันเทิง",
+                "title_en": "Variety",
+                "catSlug": "9xRpk0p5weM",
+                "title_logo": "",
+                "shelf_code": "9xRpk0p5weM",
+                "id": "9xRpk0p5weM"
+            },
+            {
+                "title": "กีฬา",
+                "title_en": "Sports",
+                "catSlug": "GDND90a8nJ7",
+                "title_logo": "",
+                "shelf_code": "GDND90a8nJ7",
+                "id": "GDND90a8nJ7"
+            },
+            {
+                "title": "สาระความรู้",
+                "title_en": "Knowledge",
+                "catSlug": "KoqXPGmn2jB",
+                "title_logo": "",
+                "shelf_code": "KoqXPGmn2jB",
+                "id": "KoqXPGmn2jB"
+            },
+            {
+                "title": "ข่าว",
+                "title_en": "News",
+                "catSlug": "YBqxpdqGeJv",
+                "title_logo": "",
+                "shelf_code": "YBqxpdqGeJv",
+                "id": "YBqxpdqGeJv"
+            },
+            {
+                "title": "การ์ตูนและรายการเด็ก",
+                "title_en": "Cartoon / Kids",
+                "catSlug": "O38YeL0vwzj",
+                "title_logo": "",
+                "shelf_code": "O38YeL0vwzj",
+                "id": "O38YeL0vwzj"
+            },
+            {
+                "title": "ฟุตบอล",
+                "title_en": "Football",
+                "catSlug": "9Qk7B6YG8GjQ",
+                "title_logo": "",
+                "shelf_code": "9Qk7B6YG8GjQ",
+                "id": "9Qk7B6YG8GjQ"
+            }
+        ],
+        "channelsList": [
+            {
+                "title": "TrueID : All",
+                "channels": [ 
                     {
                         "id": "nQlqONGyoa4",
                         "thumb": "https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
@@ -1519,4 +1622,9 @@
                         "isLiveChat": false
                     }
             
-       
+         ],
+                "catSlug": "9Qk7B6YG8GjQ"
+            }
+        ]
+    }
+}
