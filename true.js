@@ -13,7 +13,7 @@ async function getTrueIDChannels() {
     : res.data;
 
   // 🔥 แก้ตรงนี้
-  const groups = data.data;
+  const groups = data.data.channelsList;
 
   let channels = [];
 
