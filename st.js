@@ -271,9 +271,9 @@ const yyyy = now.getFullYear() + 543;
 const dateText = `${dd}/${mm}/${yyyy}`;
 
 return {
-  name: `Sportsonline.cv update @${dateText}`,
+  name: `Sportsonline.st update @${dateText}`,
   author: `Update@${dateText}`,
-  info: `sportsonline.cv Update@${dateText}`,
+  info: `sportsonline.st Update@${dateText}`,
   image: HEADER_IMAGE,
   groups: Object.values(groups)
 };
