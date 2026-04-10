@@ -50,11 +50,12 @@ function filterCategories(channels) {
   const allow = new Set(["digitaltv-ca", "freetv-ca"]);
 
   return channels.filter(ch => {
-    const cats = (ch.category || "")
-      .split("|")
-      .map(c => c.trim().toLowerCase()); // 🔥 สำคัญมาก
+    if (!ch.category) return false;
 
-    return cats.some(c => allow.has(c));
+    return ch.category
+      .split("|")
+      .map(c => c.trim().toLowerCase())
+      .some(c => allow.has(c));
   });
 }
 
