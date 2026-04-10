@@ -33,6 +33,15 @@ async function getTrueIDChannels() {
   return channels;
 }
 
+function filterCategories(channels) {
+  const allow = new Set([
+    "digitaltv-ca",
+    "freetv-ca"
+  ]);
+
+  return channels.filter(ch => allow.has(ch.category));
+}
+
 function saveTrueIDPlaylist(channels) {
   const today = new Date().toLocaleDateString("th-TH");
 
@@ -70,9 +79,13 @@ if (!channels.length) {
   return;
 }
 
-// 🔥 คัดช่องซ้ำตรงนี้
-const uniqueChannels = removeDuplicateChannels(channels);
+// 🔥 กรอง category ก่อน
+const filtered = filterCategories(channels);
 
+// 🔥 คัดซ้ำ
+const uniqueChannels = removeDuplicateChannels(filtered);
+
+console.log("✅ หลังกรอง category:", filtered.length);
 console.log("✅ หลังคัดซ้ำ:", uniqueChannels.length);
 
 saveTrueIDPlaylist(uniqueChannels);
