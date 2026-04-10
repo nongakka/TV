@@ -133,14 +133,6 @@
       "playInNatPlayer": "true"
     },
     {
-      "name": "tid-top-news",
-      "image": "https://cms.dmpcdn.com/livetv/2025/06/19/cab7bcc0-4cc6-11f0-b437-536ba535ba63_webp_original.webp",
-      "url": "https://tv.trueid.net/th-th/live/tid-top-news",
-      "referer": "https://tv.trueid.net/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "playInNatPlayer": "true"
-    },
-    {
       "name": "tptv",
       "image": "https://cms.dmpcdn.com/livetv/2023/11/22/2a4de600-8919-11ee-8416-3dc6bea66698_webp_original.webp",
       "url": "https://tv.trueid.net/th-th/live/tptv",
@@ -160,102 +152,6 @@
       "name": "t-sports-7-sd",
       "image": "https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png",
       "url": "https://tv.trueid.net/th-th/live/t-sports-7-sd",
-      "referer": "https://tv.trueid.net/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "boomerang-hd",
-      "image": "https://cms.dmpcdn.com/livetv/2025/06/02/e810afc0-3fba-11f0-8cc5-8d160eb89f9f_webp_original.webp",
-      "url": "https://tv.trueid.net/th-th/live/boomerang-hd",
-      "referer": "https://tv.trueid.net/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "news-newss1",
-      "image": "https://cms.dmpcdn.com/livetv/2025/01/28/d62afee0-dd32-11ef-953b-ef346c97cada_webp_original.webp",
-      "url": "https://tv.trueid.net/th-th/live/news-newss1",
-      "referer": "https://tv.trueid.net/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "realitychannel-hd",
-      "image": "https://cms.dmpcdn.com/livetv/2023/07/18/7d74eda0-2515-11ee-864f-a52221dad038_webp_original.webp",
-      "url": "https://tv.trueid.net/th-th/live/realitychannel-hd",
-      "referer": "https://tv.trueid.net/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "trueid-asian-series",
-      "image": "https://cms.dmpcdn.com/livetv/2025/02/26/407828e0-f412-11ef-a64e-0d554f1e32aa_webp_original.webp",
-      "url": "https://tv.trueid.net/th-th/live/trueid-asian-series",
-      "referer": "https://tv.trueid.net/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "tid-cartoon-club-channel",
-      "image": "https://cms.dmpcdn.com/livetv/2025/06/26/44b90e20-525d-11f0-9c0d-151e7d28e33f_webp_original.webp",
-      "url": "https://tv.trueid.net/th-th/live/tid-cartoon-club-channel",
-      "referer": "https://tv.trueid.net/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "top-tv-channel",
-      "image": "https://cms.dmpcdn.com/livetv/2025/12/25/c1ce2130-e145-11f0-9745-e1abaece5066_webp_original.webp",
-      "url": "https://tv.trueid.net/th-th/live/top-tv-channel",
-      "referer": "https://tv.trueid.net/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "trueplookpanya",
-      "image": "https://cms.dmpcdn.com/livetv/2024/06/04/16813190-2248-11ef-857f-891570708cee_webp_original.webp",
-      "url": "https://tv.trueid.net/th-th/live/trueplookpanya",
-      "referer": "https://tv.trueid.net/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "thaichaiyo",
-      "image": "https://cms.dmpcdn.com/livetv/2025/04/22/3fd05bf0-1f5b-11f0-998a-5bc77a7ebf21_webp_original.webp",
-      "url": "https://tv.trueid.net/th-th/live/thaichaiyo",
-      "referer": "https://tv.trueid.net/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "tid-yateem-tv",
-      "image": "https://cms.dmpcdn.com/livetv/2025/09/16/087fdc60-92f7-11f0-96e6-0db8621794b2_webp_original.webp",
-      "url": "https://tv.trueid.net/th-th/live/tid-yateem-tv",
-      "referer": "https://tv.trueid.net/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "aniplus-channel",
-      "image": "https://cms.dmpcdn.com/livetv/2025/05/29/895eab60-3c92-11f0-b877-437fa63d2c00_webp_original.webp",
-      "url": "https://tv.trueid.net/th-th/live/aniplus-channel",
-      "referer": "https://tv.trueid.net/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "white-channel-hd",
-      "image": "https://cms.dmpcdn.com/livetv/2022/02/17/3943ca00-8fd6-11ec-b076-dffedf0eab22_webp_original.png",
-      "url": "https://tv.trueid.net/th-th/live/white-channel-hd",
-      "referer": "https://tv.trueid.net/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "live-online-station",
-      "image": "https://cms.dmpcdn.com/livetv/2026/02/23/5e8e15d0-1089-11f1-a57f-030b53435594_webp_original.webp",
-      "url": "https://tv.trueid.net/th-th/live/live-online-station",
       "referer": "https://tv.trueid.net/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
       "playInNatPlayer": "true"
