@@ -237,17 +237,21 @@ function generateJSON(matches) {
 
     if (!groups[key]) {
       groups[key] = {
-        name: groupName,
-        image: GROUP_IMAGE,
-        stations: []
-      };
+  	name: groupName,
+  	date: key,
+  	image: GROUP_IMAGE,
+  	stations: []
+	};
     }
 
     const [league, logo] = getMatchDetails(item.title);
 const info = extractInfoFromUrl(item.url); // ⭐ สำคัญ
 
 groups[key].stations.push({
-  name: `${item.time_show} ${item.title}`,
+  name: `${item.time_show} ${item.title
+  .replace(" x ", " vs ")
+  .replace(/\s+/g, " ")
+  .trim()}`,
   image: logo,
   url: item.url,
   referer: "https://sportsonline.st/",
@@ -280,8 +284,12 @@ function extractInfoFromUrl(url = "") {
     const cleanUrl = url.split("?")[0];
     const parts = cleanUrl.split("/");
 
-    const file = parts[parts.length - 1]; 
-    return file.replace(".php", "");       
+    const file = parts[parts.length - 1] || "";
+
+return file
+  .split("?")[0]
+  .replace(".php", "")
+  .replace(".html", "");   
   } catch {
     return "";
   }
