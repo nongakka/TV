@@ -2,8 +2,8 @@ name: Update AIS Playlist
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # ทุก 6 ชั่วโมง
-  workflow_dispatch:        # กดรันเองได้
+    - cron: "0 */12 * * *"
+  workflow_dispatch:  
 
 permissions:
   contents: write
