@@ -47,13 +47,12 @@ function removeDuplicateChannels(channels) {
 }
 
 function filterCategories(channels) {
-  const allow = new Set([
-    "digitaltv-ca",
-    "freetv-ca"
-  ]);
+  const allow = new Set(["digitaltv-ca", "freetv-ca"]);
 
   return channels.filter(ch => {
-    const cats = (ch.category || "").split("|");
+    const cats = (ch.category || "")
+      .split("|")
+      .map(c => c.trim().toLowerCase()); // 🔥 สำคัญมาก
 
     return cats.some(c => allow.has(c));
   });
