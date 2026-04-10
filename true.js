@@ -66,7 +66,7 @@ function saveTrueIDPlaylist(channels) {
     name: "TRUE ID",
     author: "update " + today,
     image: "https://cms.dmpcdn.com/misc/2022/02/09/af7de880-89ab-11ec-8c0c-590a22d85d91_webp_original.webp",
-    url: "",
+    url: "https://raw.githubusercontent.com/nongakka/TV/main/trueid_playlist.json",
     stations: channels.map(ch => ({
       name: ch.slug, 
       image: ch.logo,
