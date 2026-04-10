@@ -52,7 +52,11 @@ function filterCategories(channels) {
     "freetv-ca"
   ]);
 
-  return channels.filter(ch => allow.has(ch.category));
+  return channels.filter(ch => {
+    const cats = (ch.category || "").split("|");
+
+    return cats.some(c => allow.has(c));
+  });
 }
 
 function saveTrueIDPlaylist(channels) {
