@@ -11,11 +11,11 @@ async function getAllChannelsFromAPI() {
   console.log("📡 โหลดรายการช่อง...");
 
   const res = await axios.get(
-    "https://raw.githubusercontent.com/nongakka/doofree/main/M3U/ais_channels.json"  
+    "https://raw.githubusercontent.com/nongakka/TV/main/ais_channels.json"  
   );
 
    //https://web-tls.ais-vidnt.com/get_section/5b403fa4d817de591a0afffe/?d=gstweb
-   //https://raw.githubusercontent.com/nongakka/doofree/main/M3U/ais_freetv.json
+   //https://raw.githubusercontent.com/nongakka/TV/main/ais_channels.json
    //https://web-sila.ais-vidnt.com/get_channels/
 
   const items = res.data.items || [];
