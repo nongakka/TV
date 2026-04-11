@@ -1,0 +1,823 @@
+{
+  "name": "Dooball66 update @11/4/2569",
+  "author": "Update@11/4/2569",
+  "info": "Dooball66 Auto Update",
+  "url": "https://raw.githubusercontent.com/nongakka/TV/main/Dooball66.json",
+  "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+  "groups": [
+    {
+      "name": "วันที่ 11/4/2569",
+      "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+      "stations": [
+        {
+          "name": "15:45 Fredensborg (W) vs Odense BK II (W)",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611396",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "15:45 UM-Damansara United vs Imigresen FC II",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611397",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Canterbury Bankstown U20 vs Bankstown City Lions U20",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611428",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Hurstville FC U20 vs Macarthur Rams U20",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611429",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 MPS U21 vs PPJ U21",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611430",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 RB LeipzigU19 vs Monchengladbach U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611427",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 FC Petrzalka U19 vs MFK Zemplin Michalovce U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611401",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 FC Tatran Presov U19 vs Slovan Bratislava U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611402",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Fomat Martin U19 vs FC Kosice U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611405",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 MSK Zilina U19 vs SCP RuzomberokU19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611403",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Spartak Trnava U19 vs Trencin U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611404",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Japan (W) U20 vs Vietnam (W) U20",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611426",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 อเดเลท ธันเดอร์เบิร์ดAdelaide Thunderbirds vs ไจแอนท์ เน็ตบอลGiants Netball",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607174",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Kingsley Westside vs Balcatta FC",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611406",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 Inglewood United vs Sorrento F.C.",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611434",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Dunbar Rovers FC vs Bonnyrigg White Eagles",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611409",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Nepean Football Club vs Camden Tigers SC",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611408",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Western Rage vs Bankstown United FC",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611410",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 71' 71' vs Marconi Stallions",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607533",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Western City Rangers FC vs Dulwich Hill SC",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611399",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 Bulls Academy vs Central Coast Mariners (Youth)",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611432",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 66' 66' vs มอร์ตันซิตี้ เอ็กเซลซิเออร์Moreton City Excelsior",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1608002",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Caboolture FC vs Broadbeach United",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611420",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Grange Thistle (W) vs Virginia United SC (W)",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611407",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 78' 78' vs Dandenong Thunder",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607625",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Goulburn Valley Suns vs Kingston City",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611415",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Sydney Olympic U20 vs Manly United U20",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611419",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:15 UNSW FC U20 vs APIA Leichhardt Tigers U20",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611431",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Springfield United vs Yeronga Eagles",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611400",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Teplice B vs โซโคล โบรซานีSokol Brozany",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611398",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Hradec Kralove (W) vs Lisen(W)",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611425",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Dynamo Ceske Budejovice U19 vs Slovan Liberec U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611422",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Tescoma Zlin U19 vs Brno U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611424",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Vysocina Jihlava U19 vs Slavia Praha U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611423",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Slovacko U19 vs Pardubice U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611454",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:30 MFK Karvina U19 vs Hradec Kralove U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611465",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Diósgyőr II vs Ózd-Sajóvölgye",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1610386",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 82' 82' vs Budapest Honvéd II",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1610392",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Ujpesti TE B vs Puskas Academy II",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611418",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Vasas SC II vs Monori SE",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611417",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Crotone U19 vs Pescara Youth",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611421",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 Ascoli Youth vs AS Avellino Youth",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611438",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 Ternana u20 vs Benevento (Youth)",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611439",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 เซบูDynamic Herb Cebu vs Taguig",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611416",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 การ์บาร์เนีย คราคอฟGarbarnia Krakow vs Poprad Muszyna",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611413",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Gedania Gdansk vs Gryf Slupsk",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611412",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 LKS Belk vs LGKS 38 Podlesianka",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611414",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 Victoria Czernikowo vs Lokietek Brzesc Kujawski",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611411",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 Watra Bialka Tatrzanska vs Orzel Ryczow",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611436",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:00 82' 82' vs ลอง อันLong An",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607742",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 โครโนลา ชาร์คCronulla Sharks vs ซิดนีย์ รูสเตอร์Sydney Roosters",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607188",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 เมลเบิร์น สตอร์มMelbourne Storm vs นิวซีแลนด์ วอริเออร์New Zealand Warriors",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607186",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 Bangladesh Police Club vs Fortis Limited",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611435",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 FC Maardu vs Tallinna FC Levadia B",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1612068",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 Nomme JK Kalju II vs JK Welco Elekter",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1612069",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 Tabasalu Charma vs Parnu JK Vaprus II",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611433",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 47' 47' vs ยะโฮ ดารุล ตาห์ซิมJohor Darul Tazim",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607475",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 SBV Excelsior Reserve vs FC Dordrecht U21",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611440",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 USV Hercules U21 vs Alkmaarse FC 1934 U21",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611460",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:30 VV Alexandria 66 U21 vs RKVV Westlandia U21",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611467",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 46' 46' vs เซปซี่Sepsi OSK",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607411",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:30 Deportivo La Coruna U19 vs Racing Santander U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611437",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Burgos U19 vs CD Diocesano U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611448",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Leganes U19 vs Alcobendas CF U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611450",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Levante U19 vs Alboraya U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611449",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:30 Gimnastic Tarragona U19 vs Espanyol U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611464",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:30 Solares U19 vs ED Val Minor Nigran U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611463",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:35 ฮอว์ธอร์น เอฟซีHawthorn Football Club vs เวสเทิร์น บลูด็อกซ์Western Bulldogs",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1606953",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "16:35 45' 45' vs เวสเทิร์น ซิดนีย์ วันเดอเรอร์สWestern Sydney Wanderers",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1608193",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 West Torrens Birkalla B vs North Eastern MetroStars Reserve",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611447",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Esbjerg U19 vs Silkeborg U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611444",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Croatia (W) U19 vs Azerbaijan (W) U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611441",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 38' 38' vs Eastern SC",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607523",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Haukar Hafnarfjordur vs UMF Vidir",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611452",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Punjab Kings vs Sunrisers Hyderabad",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607113",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 35' 35' vs โออิตะ ตรินิต้าOita Trinita",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607320",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 FC Talanta vs Mwatate United",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611458",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Kibera Black Stars vs Mombasa United",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611459",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Lech Poznan (Youth) vs Wisla Krakow (Youth)",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1612071",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Legia Warszawa (Youth) vs Lechia Gdansk (Youth)",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611455",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Odra Opole Youth vs Polonia Warszawa   (Youth)",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611456",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Slask Wroclaw U21 vs Gornik Zabrze (Youth)",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611457",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:30 Stal Rzeszow Youth vs Escola Varsovia Warszawa Youth",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611466",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 33' 33' vs Goczałkowice-Zdrój",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1608248",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 35' 35' vs Varzim",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607459",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Santa Clara U19 vs Benfica U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611451",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 36' 36' vs เปนาเฟียลPenafiel",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1608210",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Golden Arrows Reserves vs Durban City Reserves",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611453",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 37' 37' vs Las Palmas Atlético",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607345",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 38' 38' vs Beti Onak",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1608128",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 FC Nacka Iliria vs FOC Farsta",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611443",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Kungsangens IF vs Enskede IK",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1612070",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 FC Thun II vs Koniz",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611461",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Alanyaspor U19 vs Trabzonspor U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611445",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 Buyuksehir BLD.Spor U19 vs Genclerbirligi U19",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611446",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:00 FC Karpaty Lviv vs PFC Oleksandria",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611442",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:15 22' 22' vs สตาล สตาโลเวีย โวล่าStal Stalowa Wola",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607766",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:30 8' 8' vs ฮิลลิร็อดHillerød",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607641",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:30 8' 8' vs Dempo",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1608003",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:30 Sportivo San Lorenzo Reserve vs Club Guarani Reserve",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1611462",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        {
+          "name": "17:30 8' 8' vs Sarıyer",
+          "info": "Dooball66 Match",
+          "image": "https://dooball66ae.com/wp-content/uploads/2020/07/cropped-logo.png",
+          "url": "https://dooball66ad.com?match_id=1607466",
+          "referer": "https://dooball66ae.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        }
+      ]
+    }
+  ]
+}
