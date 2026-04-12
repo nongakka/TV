@@ -273,7 +273,7 @@ const dateText = `${dd}/${mm}/${yyyy}`;
 return {
   name: `Sportsonline.st update @${dateText}`,
   author: `Update@${dateText}`,
-  info: `sportsonline.st Update@${dateText}`,
+  info: `sportsonline.vc Update@${dateText}`,
   image: HEADER_IMAGE,
   groups: Object.values(groups)
 };
